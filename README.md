@@ -1,11 +1,10 @@
 ### <div align="center">I'm Jeroham Sanchez, a full-time full-stack web developer 👨‍💻
-</div>  
+
 - Systems engineer from 2010  
 - Software development (8+ years of experience)  
-- Project management (5+ years of experience)  
-<br/>  
+- Project management (5+ years of experience)
+
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -14,7 +13,6 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
-</td><td valign="top" width="33%">
 ### Backend  
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -26,8 +24,6 @@
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 </div>
-</td><td valign="top" width="33%">
-</td></tr></table>  
 <br/>  
 ## Connect with me  
 <div align="center">
@@ -42,12 +38,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lordjnux&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
-## Recent Blog Posts  
-<br/>  
-<br/>  
+## Recent Blog Posts 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=lordjnux&&style=flat-square" align="center" />
 </div>  
-<br/>  
-<div align="center"></div>
-<br />
