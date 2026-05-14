@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm a **Senior AI-Augmented Fullstack Systems Engineer** with 15+ years of experience designing and shipping production software — from distributed backend architectures to polished, animated frontend experiences.
+I'm a **Senior AI-Augmented Fullstack Systems Engineer** with 10+ years of experience designing and shipping production software — from distributed backend architectures to polished, animated frontend experiences.
 
 I work at the intersection of **AI automation**, **cloud-native infrastructure**, and **product engineering**. My systems go beyond CRUD: AI-driven content pipelines, intelligent moderation engines, automated video generation workflows, and real-time data dashboards.
 
